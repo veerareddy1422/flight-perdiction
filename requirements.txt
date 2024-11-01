@@ -6,15 +6,14 @@ itsdangerous
 Jinja2
 joblib
 MarkupSafe
-numpy
+numpy==1.23.5
 pandas
 python-dateutil
 pytz
-scikit-learn
+scikit-learn==1.1.2
 scipy
 six
 threadpoolctl
 Werkzeug
 zipp
 gunicorn
-

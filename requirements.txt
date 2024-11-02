@@ -6,7 +6,7 @@ itsdangerous
 Jinja2
 joblib
 MarkupSafe
-numpy==1.23.5
+numpy
 pandas
 python-dateutil
 pytz
